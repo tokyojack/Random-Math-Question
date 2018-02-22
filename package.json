@@ -1,6 +1,6 @@
 {
   "name": "random-math-question",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get's a random math question",
   "main": "index.js",
   "scripts": {
