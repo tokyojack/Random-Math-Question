@@ -20,7 +20,7 @@ npm install random-math-question --save
 
 ## :straight_ruler: Usage
 
-  ```
+```javascript
 var randomMathQuestion = require('random-math-question');
 
 var mathQuestion1 = randomMathQuestion.get();
